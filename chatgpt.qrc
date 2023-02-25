@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/ChatGpt">
+        <file>icon.png</file>
+        <file>send.png</file>
+        <file>wait.png</file>
+        <file>down.png</file>
+        <file>on.png</file>
+    </qresource>
+</RCC>
